@@ -1,0 +1,8 @@
+setup.cfg
+.pypirc
+*.pyc
+build/
+statkey.egg-info/
+dist/
+venv/
+key.py
