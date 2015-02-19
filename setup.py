@@ -10,7 +10,7 @@ long_description = read('README.rst')
 
 setup(name="statkey",
       version="0.1",
-      description="A simple script to make the commands 'git status', 'hg status' and 'svn status' run with a one key command - the s key.",
+      description="A simple script to make the commands 'git status'/'git diff' or 'hg status'/'hg diff' run with a one key command - the s key.",
       long_description=long_description,
       classifiers=[
           'Development Status :: 3 - Alpha',
